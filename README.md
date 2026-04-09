@@ -24,7 +24,7 @@ An interactive word scramble game written in C where players are given a jumbled
 5. The game continues for multiple rounds.
 
 ## Sample Input & Output
-Sample Input:
+### Sample Input:
 
 Select Difficulty:
 1. Easy
@@ -38,7 +38,7 @@ Your guess: sun
 ...
 Play again? n
 
-Sample Output:
+### Sample Output:
 
 ==== WORD SCRAMBLE GAME ====
 
