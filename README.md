@@ -24,10 +24,10 @@ An interactive word scramble game written in C where players are given a jumbled
 5. The game continues for multiple rounds.
 
 ## Concepts Used
--Arrays & Strings
--Functions
--Random number generation (rand())
--Loops & Conditional statements
+-Arrays & Strings  
+-Functions  
+-Random number generation (rand())  
+-Loops & Conditional statements  
 
 ## Sample Input & Output
 ### Sample Input:
