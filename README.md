@@ -77,5 +77,9 @@ Play again? (y/n): n
 
 Thanks for playing!
 
+## Author
+Sampradha B Kumar  
+Electronics and Computer Engineering Student 
 
-
+## Note
+This project was developed as part of academic coursework and enhanced for learning purposes.
